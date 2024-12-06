@@ -6,8 +6,9 @@ flowchart TB
     c1[中台]-->quan
     c1-->ban
     end
-        subgraph 小商家
-    a1[小商家]--实力较弱-->ban[半托管]
+    
+     subgraph 小商家
+    a1[小商家]ban[半托管]--实力较弱-->
     end
 
 
