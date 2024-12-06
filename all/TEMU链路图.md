@@ -2,9 +2,9 @@
 
 
 flowchart TB
-    TEMU-->半托管
+    TEMU-->全托管
     subgraph 小商家
-    商家-->半托管
+    商家-->全托管
     end
     subgraph 大商家
     b1-->b2
