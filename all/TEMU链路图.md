@@ -3,10 +3,10 @@
 
 flowchart TB
     TEMU-->半托管
-    subgraph 小成本商家
+    subgraph 小商家
     商家-->半托管
     end
-    subgraph duo
+    subgraph 大商家
     b1-->b2
     end
     subgraph three
