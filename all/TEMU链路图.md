@@ -7,7 +7,7 @@ flowchart TB
 
 
     subgraph 大商家
-    b1[-->b2
+    b1[大商家】-->b2
     end
 
 
