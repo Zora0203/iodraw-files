@@ -9,7 +9,10 @@ flowchart TB
     subgraph 大商家
     b1-->b2
     end
+
+
     subgraph TEMU
     c1-->b2
+    c1-->ban
     end
 ```
