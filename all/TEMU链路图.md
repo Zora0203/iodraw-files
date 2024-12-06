@@ -3,7 +3,7 @@ flowchart TB
 
     subgraph 小商家
     a1[小商家]--实力较弱-->ban[半托管]
-    end
+    end\
     subgraph 大商家
     b1-->b2
     end
