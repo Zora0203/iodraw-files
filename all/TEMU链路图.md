@@ -1,14 +1,8 @@
 ```mermaid
-
-
-flowchart TB
-    subgraph 小商家
-    小商家-->全托管
-    end
-    subgraph 大商家
-    大商家-->半托管
-    end
-    subgraph TEMU
-    TEMU-->半托管
-    end
+graph TD
+    A[fa:fa-user Tom] -->|Get money| B(Go shopping)
+    B --> C{Select}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
 ```
