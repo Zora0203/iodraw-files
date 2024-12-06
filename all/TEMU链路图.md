@@ -2,7 +2,7 @@
 
 
 flowchart TB
-    sh-->a2
+    商-->a2
     subgraph one
     a1-->a2
     end
