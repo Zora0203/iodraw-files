@@ -2,7 +2,7 @@
 flowchart TB
     c1-->a2
     subgraph 小商家
-    a1[小商家]-->a2
+    a1[小商家]-实力jiao'ruo->a2
     end
     subgraph 大商家
     b1-->b2
