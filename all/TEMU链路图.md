@@ -4,7 +4,7 @@
 flowchart TB
     TEMU-->半托管
     subgraph one
-    shang'j-->a2
+    商家-->半托管
     end
     subgraph two
     b1-->b2
