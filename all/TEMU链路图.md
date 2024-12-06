@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TB
-    c1-->a2
+
     subgraph 小商家
     a1[小商家]--实力较弱-->ban[半托管]
     end
