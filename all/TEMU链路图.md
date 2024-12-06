@@ -7,8 +7,8 @@ flowchart TB
     c1-->ban
     end
     
-     subgraph 小商家
-    a1[小商家]ban[半托管]--实力较弱-->
+     subgraph 
+   ban[半托管]--实力较弱--> a1[小商家]
     end
 
 
