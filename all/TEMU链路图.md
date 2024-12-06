@@ -8,6 +8,6 @@ flowchart TB
     b1-->b2
     end
     subgraph TEMU
-    c1-->
+    c1-->b2
     end
 ```
