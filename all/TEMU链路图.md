@@ -13,6 +13,6 @@ flowchart TB
 
 
     subgraph 大商家
-    b1[大商家]quan[全托管]
+    quan[全托管]--拥有海外自营仓-->b1[大商家]
     end
 ```
