@@ -12,7 +12,7 @@ flowchart TB
 
 
     subgraph TEMU
-    c1-->b2
+    c1[t-->quan
     c1-->ban
     end
 ```
