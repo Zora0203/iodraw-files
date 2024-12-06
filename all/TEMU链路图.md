@@ -4,12 +4,12 @@
 flowchart TB
     TEMU-->全托管
     subgraph 小商家
-    xiao商家-->全托管
+    小商家-->全托管
     end
     subgraph 大商家
-    商家-->半托管
+    大商家-->半托管
     end
-    subgraph three
+    subgraph TEMU
     c1-->c2
     end
 ```
