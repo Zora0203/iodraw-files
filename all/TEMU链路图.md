@@ -2,7 +2,7 @@
 
 
 flowchart TB
-    TEMU--> 半托管
+    TEMU-->
     subgraph one
     a1-->a2
     end
