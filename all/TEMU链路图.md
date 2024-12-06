@@ -6,7 +6,7 @@ flowchart TB
     subgraph 小成本商家
     商家-->半托管
     end
-    subgraph two
+    subgraph duo
     b1-->b2
     end
     subgraph three
