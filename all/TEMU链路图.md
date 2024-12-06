@@ -7,7 +7,7 @@ flowchart TB
 
 
     subgraph 大商家
-    b1[大商家]--拥有海外zi'yin-->ban[半托管]
+    b1[大商家]--拥有海外自营仓-->b[半托管]
     end
 
 
