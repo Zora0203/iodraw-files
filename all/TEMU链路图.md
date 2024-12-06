@@ -10,6 +10,6 @@ flowchart TB
     大商家-->半托管
     end
     subgraph TEMU
-    c1-->c2
+    c1-->半托管
     end
 ```
