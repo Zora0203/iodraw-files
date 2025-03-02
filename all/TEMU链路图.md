@@ -14,7 +14,7 @@ flowchart TB
      N[购物车 Cart]
     end
     
-      subgraph 核心产品
+    subgraph2 核心产品
     B[搜索 Search]
     C[广告 Advertisement]
     D[顶部功能区 Top Functional]
