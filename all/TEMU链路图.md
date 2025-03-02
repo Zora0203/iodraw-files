@@ -4,7 +4,7 @@ flowchart TB
 
     subgraph 核心产品
     B[搜索 Search]
-    A --> C[广告 Advertisement]
+    C[广告 Advertisement]
     A --> D[顶部功能区 Top Functional]
     A --> H[产品类别 Categories]
     A --> I[推荐 Recommended]
