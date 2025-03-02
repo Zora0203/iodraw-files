@@ -2,7 +2,7 @@
 flowchart TB
 
 
-    subgraph TEMU
+    subgraph 核心产品
     c1[中台]-->quan[全托管]
     c1-->ban[半托管]
     end
