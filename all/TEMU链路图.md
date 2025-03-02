@@ -3,8 +3,15 @@ flowchart TB
 
 
     subgraph 核心产品
-    c1[中台]-->quan[全托管]
-    c1-->ban[半托管]
+    A --> B[搜索 Search]
+    A --> C[广告 Advertisement]
+    A --> D[顶部功能区 Top Functional]
+    A --> H[产品类别 Categories]
+    A --> I[推荐 Recommended]
+    A --> J[导航 Navigation]
+    A --> K[首页 Home]
+    A --> M[个人中心]
+    A --> N[购物车 Cart]
     end
     
      subgraph 1
@@ -15,14 +22,6 @@ flowchart TB
     subgraph 2
     quan--拥有海外自营仓-->b1[大商家]
     end
-
-
-    graph TD
-    %% 主框架
-    A[["图6：Temu产品框架和流量逻辑体系
-    （数据来源：广发证券发展研究中心）"]]:::title
-    
-    %% 核心功能模块
 
     
     %% 顶部功能区展开
