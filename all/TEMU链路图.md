@@ -7,11 +7,11 @@ flowchart TB
     C[广告 Advertisement]
     D[顶部功能区 Top Functional]
     H[产品类别 Categories]
-    A --> I[推荐 Recommended]
-    A --> J[导航 Navigation]
-    A --> K[首页 Home]
-    A --> M[个人中心]
-    A --> N[购物车 Cart]
+    I[推荐 Recommended]
+    J[导航 Navigation]
+    K[首页 Home]
+   M[个人中心]
+     N[购物车 Cart]
     end
     
    
