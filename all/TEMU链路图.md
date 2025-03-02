@@ -25,7 +25,7 @@ flowchart TB
 
     
     %% 顶部功能区展开
-    D --> E[标语 Tagline<br>▪ 免费送货 Free returns<br>▪ 免费退货 Free returns]
+    D -->E[标语 Tagline<br>▪ 免费送货 Free returns<br>▪ 免费退货 Free returns]
     D --> F[限时秒杀 Lightning deals<br>▪ 人找货模式<br>▪ 关键词搜索转化]
     D --> G[广告 Advertisement<br>▪ 单品推广<br>▪ 主题推广]
     
@@ -39,7 +39,7 @@ flowchart TB
     %% 数据标注
     Z[["数据来源：人人都是产品经理（佳佳原创）
     广发证券发展研究中心"]]:::source
-    
+       end
     %% 样式定义
     classDef title fill:#f0f8ff,stroke:#1a3d66,stroke-width:1.5px,font-size:14pt
     classDef default fill:#fff,stroke:#1a3d66,stroke-width:1px,font-size:10pt
