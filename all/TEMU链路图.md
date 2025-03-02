@@ -14,7 +14,7 @@ flowchart TB
      N[购物车 Cart]
     end
     
-    subgraph2 
+    subgraph 顶部
     E[标语 Tagline<br>▪ 免费送货 Free returns<br>▪ 免费退货 Free returns]
     F[限时秒杀 Lightning deals<br>▪ 人找货模式<br>▪ 关键词搜索转化]
     G[广告 Advertisement<br>▪ 单品推广<br>▪ 主题推广]
